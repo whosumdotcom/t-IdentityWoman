@@ -1,0 +1,23 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-01-09T20:23:22Z",
+  "IdClaims": [
+    {
+      "Claim": "t:IdentityWoman"
+    },
+    {
+      "Claim": "gh:identitywoman"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "18ff279325d3d78e750f4c4e",
+    "Timestamp": "2023-01-12T17:37:31Z",
+    "Signature": "4e2d0570ed881e5c30c789cb6aaf486fca1f58a8afbf6eb76a0d90563491475ada97ca7d0940901bb95438b0a7ffc5ca3da39cf12f758a8ab0779dc13f545b32f84b96f13ff17411babf3124c78aa14c2b945bf850be46bbeab762c1a3536c1419f693fd0938ba400e1ff7ee7ba357f6f4bf4e41b6837c97d3e851840c2a795838fcb8f4ff735862f9d5c121d584524f8b733d4a5439b7bafd0d5211d8f2d10a105c755da48a4e47266f12d8c1e45ad36496b00e1f3768b2f84ef1cd6934b38a7f804a13b6aff7318cf59306913bf29fe833130e4f3d9bfd45bfbbc8b666a56b5769e19b538a81e0e6814c415bf4029f9f0acc5b482f5bed7e784fc7f756e85f"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "d778fc8bdbecb1c01f7fb5884bedd5f57aa40c2888b5543759e33b1631333e65",
+  "ContentToHash": "v1|gh:identitywoman,t:IdentityWoman|2023-01-09T20:23:22Z"
+}
